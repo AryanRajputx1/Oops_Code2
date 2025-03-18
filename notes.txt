@@ -1,0 +1,16 @@
+Inheritance :
+child class, base class , derived class
+child class is inherting prop form base class
+so the classes are interlinked to one another
+USE EXTENDS keyword ;
+
+class child extends base{
+
+}
+"""""" we have to initializethe parent class variables as well
+
+IT IS THE TYPE OF REFFERENCE VARIABLE AND NOT THE OB
+
+JECT THAT DETERMINES WHAT OBJECTS CAN BE ACCESSED
+
+SUPER keyword :
